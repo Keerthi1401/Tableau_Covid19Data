@@ -1,5 +1,5 @@
-# Tableau_Covid19Data
+# Tableau_Covid19 impact on digital learning
 
-Find the dataset in the following link - https://ourworldindata.org/covid-deaths
+Find the dataset in the following link - https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/data
 
-![image](https://user-images.githubusercontent.com/71480365/136843444-165904f5-0a1f-4cad-8754-4277ca7d84eb.png)
+![image](https://user-images.githubusercontent.com/71480365/144482024-ffd22047-e8d5-4437-8a37-33a8aee3637a.png)
